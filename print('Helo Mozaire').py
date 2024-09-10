@@ -1,1 +1,1 @@
-print('Helo Euphraim')
+print('Helo Euph')
